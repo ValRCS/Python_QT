@@ -8,6 +8,10 @@
 * http://doc.qt.io/qt-5/qwidget.html
 
 
+## QPainter
+https://doc.qt.io/qtforpython/PySide2/QtGui/QPainter.html#PySide2.QtGui.QPainter
+
+
 
 ## Working with PyQT for QT5 the older library
 * https://build-system.fman.io/pyqt5-tutorial
