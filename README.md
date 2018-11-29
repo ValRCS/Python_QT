@@ -10,6 +10,9 @@
 ## QT for Python Slots and Signals the NEW syntax!
 * https://wiki.qt.io/Qt_for_Python_Signals_and_Slots
 
+### More on QT Signals and Slots
+* http://doc.qt.io/qt-5/signalsandslots.html
+
 
 ## QPainter
 https://doc.qt.io/qtforpython/PySide2/QtGui/QPainter.html#PySide2.QtGui.QPainter
